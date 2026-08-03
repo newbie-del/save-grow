@@ -1,7 +1,6 @@
 <div align="center">
   <br />
-    <a href="https://youtu.be/dGHFV_RMGag" target="_blank">
-      <img src="https://i.postimg.cc/tJsYLQcP/test1.jpg" alt="Project Banner">
+      <img src="https://postimg.cc/DWGxKY3k" alt="Project Banner">
     </a>
   
   <br />
@@ -25,7 +24,6 @@
 3. 🔋 [Features](#features)
 4. 🤸 [Quick Start](#quick-start)
 5. 🕸️ [Assets & Code](#snippets)
-6. 🚀 [More](#more)
 
 
 If you prefer visual learning, this is the perfect resource for you. Follow our tutorial to learn how to build projects like these step-by-step in a beginner-friendly manner!
@@ -67,8 +65,8 @@ Make sure you have the following installed on your machine:
 **Cloning the Repository**
 
 ```bash
-git clone https://github.com/mendsalbert/ai-finance-trackingt.git
-cd ai-finance-tracking
+git clone https://github.com/newbie-del/save-grow
+cd save-grow
 ```
 
 **Installation**
@@ -110,5 +108,3 @@ Open [http://localhost:3000](http://localhost:3000) in your browser to view the 
 ## <a name="snippets">🕸️ Assets & Code</a>
 
 The repository includes all the assets and code you need to get started with Save&Grow. 
-
-## <a name="more">🚀 More</a>
